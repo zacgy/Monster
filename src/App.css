@@ -1,0 +1,24 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background: linear-gradient(
+    to left,
+    rgb(61, 6, 49) 0%,
+    rgb(197, 10, 150) 100%
+  );
+  text-align: center;
+}
+
+.Monster-INC{
+  margin-top: 75px;
+  margin-bottom: 50px;
+  font-size: 76px;
+  color: #000000e5;
+  font-family: 'Mystery Quest', cursive;
+ 
+}
